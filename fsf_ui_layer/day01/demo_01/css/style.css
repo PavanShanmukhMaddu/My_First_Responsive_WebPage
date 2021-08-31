@@ -1,0 +1,18 @@
+body{
+ background-color: grey;
+ color: antiquewhite;   
+}
+header{
+    background-color: navy;
+    text-align: center;
+}
+section{
+    background-color: brown;
+    display: inline-flexbox;
+    width: fit-content;
+    margin: 100px 0 100px 0;
+}
+footer{
+    background-color: navy;
+    text-align: center;
+} 
